@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Online Shopping</title>
 <link rel="stylesheet" href = "images/bootstrap.css">
 
 <link rel="stylesheet" href="Css/w3.css">
@@ -103,9 +103,9 @@ img {vertical-align: middle;}
 
 </head>
 <body>
+	<%@ include file = "navbar.jsp" %>
 <form action="" method= "post">
 
-	<%@ include file = "navbar.jsp" %>
 	
 	
 	<div style='background-color:#ebe9eb'>
@@ -176,9 +176,9 @@ function showSlides() {
 <br>
 <hr>
 
-	<br>
+	<br/>
 	<center><h3><c>Featured Products</c></h3></center>
-	<br>
+	<br/>
 <div class = "scrollmenu" style="max-width: 1200px">
 
 	<%

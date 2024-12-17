@@ -2,7 +2,7 @@
 	
 	<%@ include file="cartnullqty.jsp" %>
 	
-	<div style='margin-left:40% '>
+	<div style='display: flex; justify-content: end; align-items: center; margin-right: 2rem'>
 	
 	<b style='color: firebrick'>Welcome <%= A%> </b> 
 	

@@ -1,6 +1,6 @@
 <%@ include file="cartnullqty.jsp" %>
 	
-	<div style='margin-left:50% '>
+	<div style='display: flex; justify-content: end; align-items: center; margin-right: 2rem'>
 	
 <b>	<a href="cartnull.jsp" class="w3-bar-item w3-button" ><img src = images/cart.png height=40px alt=Cart></a>
 
